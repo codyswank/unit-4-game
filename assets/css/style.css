@@ -1,0 +1,42 @@
+.crystals {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    }
+
+    h1 {
+        padding: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background: #896c6c;
+        color: white;
+
+    }
+
+    body {
+        background: #a9a691;
+    }
+
+    .numberToMatch {
+        padding: 20px;
+        background: #778ebf;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        width: 50%;
+        margin: 10px;
+    }
+
+    .winsAndLosses {
+        padding: 20px;
+        background: #977ca9;
+        color: white;
+        width: 50%;
+        margin: 10px;
+    }
+
+    #userTotals {
+        padding: 20px;
+        background: #494336;
+        color: white;
+        width: 50%;
+        margin: 10px;
+    }
